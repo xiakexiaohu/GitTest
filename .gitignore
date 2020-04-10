@@ -9,3 +9,4 @@ compressed/
 **/.classpath
 **/target
 **/**/target
+将删除 src/test/

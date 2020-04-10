@@ -1,0 +1,11 @@
+*/.project
+*.iml
+*/.settings
+.idea/
+*/.classpath
+**/logs
+compressed/
+**/dblogs
+**/.classpath
+**/target
+**/**/target
